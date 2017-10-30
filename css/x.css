@@ -1,0 +1,12 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.row{margin-top: 1rem;}
+
+h2 {font-family: Arial; font-size: 30px;}
+h3 {font-family: Arial; font-size: 25px; color: aliceblue}
+h4 {margin-bottom: 5px;}
